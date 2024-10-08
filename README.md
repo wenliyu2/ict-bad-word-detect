@@ -1,0 +1,1 @@
+# ict-bad-word-detect
